@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  padding: 25px 0 25px 0;
+  margin: 0;
+
+}
+.form-control {
+    border: 1px solid #51c86d;
+    border-radius: 0 ;
+}
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #51c86d;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(34, 162, 64);
+}
+.react-calendar__tile--active {
+    background: #51c86d !important;
+    color: white;
+}

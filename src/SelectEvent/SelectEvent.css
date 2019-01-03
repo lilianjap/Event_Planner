@@ -1,0 +1,15 @@
+.SelectEvent {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.font1{
+    font-size: 1.2rem;
+}
+
+.modal-container {
+   position: relative;
+   height: 200;
+ }
+.modal-container .modal, .modal-container .modal-backdrop {
+   position: absolute;
+ }

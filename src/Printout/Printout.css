@@ -1,0 +1,35 @@
+.Printout {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: #fff;
+}
+
+.header {
+    padding: 0;
+    margin: 0;
+}
+
+.myBtndiv {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    -webkit-box-shadow: 0px 3px 0px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 3px 0px rgba(0, 0, 0, 1);
+    box-shadow: 0px 3px 0px rgba(0, 0, 0, 1);
+    text-align: center;
+}
+
+.btn-warning-text:hover,
+.btn-warning-text {
+    color: #000000;
+    font-weight: bold;
+}
+
+.btn span {
+    font-size: 65%;
+}
+
+.goBackPrintout:after {
+    content: none;
+    right: 0px;
+}

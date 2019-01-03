@@ -1,0 +1,51 @@
+body, header, .brand {
+    padding-top: 60px;
+    font-family: 'Bodoni', sans-serif;
+}
+body {
+  background: url(media/bg.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.text-dark-green {
+    color: #5fcf80 !important;
+}
+
+.bg-dark {
+    background: #51667E !important;
+}
+.bg-green {
+    background: #009688 !important;
+}
+
+.navbar-light .navbar-brand {
+    font-size: 1.5rem;
+}
+
+.navbar {
+    box-shadow: 0 0 1px rgba(0, 65, 94, 0.2);
+}
+
+.bg-grey {
+    background-color: #637a91;
+    color: #fff;
+}
+
+.card {
+    border: unset;
+}
+
+.type:hover {
+    box-shadow: 1px 2px 3px #00000038;
+    cursor: pointer;
+}
+
+.react-calendar {
+    box-shadow: 0 0 1px rgba(0, 65, 94, 0.2);
+}
+
+a:hover {
+    text-decoration: unset;
+}

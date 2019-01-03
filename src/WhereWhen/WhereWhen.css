@@ -1,0 +1,24 @@
+.WhereWhen {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.btnDiv {
+    text-align: center;
+}
+
+.backHome {
+  margin-right: 20px;
+  }
+@media screen and (max-width: 1092px){
+  .form-inline {
+    margin-top: 30px;
+  }
+}
+.legend{
+  bottom: 50%;
+}
+
+.calendar{
+  margin-top: 20px;
+}

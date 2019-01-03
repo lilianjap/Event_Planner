@@ -1,0 +1,10 @@
+#events {
+  margin-top: 10px;
+}
+
+.carousel.carousel-slider{
+  height: 50vh;
+}
+.carousel .slide{
+  height: 52vh;
+}
