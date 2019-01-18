@@ -34,13 +34,9 @@ so we had to scrap that idea. For example, there were only 300 events marked as 
 
 
 Tania Christensen
-910701-5548
 
 Lilian Jap 
-900912-5601
 
 Siri Blomqvist Lallerstedt
-920219-4164 
 
 Pournami Krishnakumari 
-931002-1440
