@@ -32,7 +32,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 The initial idea was to propose events depending the user, i.e romantic, family etc, but the API turned out to not be as thorough as we first thought
 so we had to scrap that idea. For example, there were only 300 events marked as family friendly in the whole database. We also wanted the user to be able to search for events in the whole world as was stated possible in the API documentation, but i turned out that the lion's share of the events take place in the US. 
 
-
+Contributors:
 Tania Christensen
 
 Lilian Jap 
